@@ -1,11 +1,11 @@
 <?php
-use Mode\Helpers\Support\Pages\Meta;
+use Mode\Helpers\Pages\Meta;
 
 if (!function_exists('meta')) {
 
     /**
      * helper function for getting an instance of the meta helper
-     * @return Mode\Helpers\Support\Meta
+     * @return Mode\Helpers\Pages\Meta
      */
     function meta() {
 

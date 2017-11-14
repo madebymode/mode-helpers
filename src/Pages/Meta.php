@@ -1,6 +1,5 @@
 <?php
-
-namespace Mode\Helpers\Support\Pages;
+namespace Mode\Helpers\Pages;
 
 class Meta
 {

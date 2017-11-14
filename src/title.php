@@ -1,11 +1,11 @@
 <?php
-use Mode\Helpers\Support\Pages\Title;
+use Mode\Helpers\Pages\Title;
 
 if (!function_exists('title')) {
 
     /**
      * helper function for getting an instance of the title helper
-     * @return Mode\Helpers\Support\Pages\Title
+     * @return Mode\Helpers\Pages\Title
      */
     function title() {
 
